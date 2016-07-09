@@ -1,1 +1,90 @@
 # CodeBook
+
+code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
+
+Dimentions of the tidy dataset 10299x81 
+
+Variables:
+
+* Activity                         
+* Subject                       
+* TimeBodyAccMeanX                      
+* TimeBodyAccMeanY                      
+* TimeBodyAccMeanZ                   
+* TimeBodyAccStdDevX                    
+* TimeBodyAccStdDevY                    
+* TimeBodyAccStdDevZ                   
+* TimeGravityAccMeanX                   
+* TimeGravityAccMeanY                   
+* TimeGravityAccMeanZ                  
+* TimeGravityAccStdDevX                 
+* TimeGravityAccStdDevY                 
+* TimeGravityAccStdDevZ                 
+* TimeBodyAccJerkMeanX                  
+* TimeBodyAccJerkMeanY                  
+* TimeBodyAccJerkMeanZ                  
+* TimeBodyAccJerkStdDevX                
+* TimeBodyAccJerkStdDevY                
+* TimeBodyAccJerkStdDevZ                
+* TimeBodyGyroMeanX                     
+* TimeBodyGyroMeanY                     
+* TimeBodyGyroMeanZ                    
+* TimeBodyGyroStdDevX                   
+* TimeBodyGyroStdDevY                   
+* TimeBodyGyroStdDevZ                  
+* TimeBodyGyroJerkMeanX                 
+* TimeBodyGyroJerkMeanY                 
+* TimeBodyGyroJerkMeanZ                
+* TimeBodyGyroJerkStdDevX               
+* TimeBodyGyroJerkStdDevY               
+* TimeBodyGyroJerkStdDevZ               
+* TimeBodyAccMagMean                   
+* TimeBodyAccMagStdDev                  
+* TimeGravityAccMagMean                
+* TimeGravityAccMagStdDev               
+* TimeBodyAccJerkMagMean               
+* TimeBodyAccJerkMagStdDev              
+* TimeBodyGyroMagMean                  
+* TimeBodyGyroMagStdDev                
+* TimeBodyGyroJerkMagMean              
+* TimeBodyGyroJerkMagStdDev             
+* FrequencyBodyAccMeanX                 
+* FrequencyBodyAccMeanY                 
+* FrequencyBodyAccMeanZ                
+* FrequencyBodyAccStdDevX               
+* FrequencyBodyAccStdDevY               
+* FrequencyBodyAccStdDevZ            
+* FrequencyBodyAccmeanFreqX           
+* FrequencyBodyAccmeanFreqY           
+* FrequencyBodyAccmeanFreqZ           
+* FrequencyBodyAccJerkMeanX             
+* FrequencyBodyAccJerkMeanY             
+* FrequencyBodyAccJerkMeanZ            
+* FrequencyBodyAccJerkStdDevX
+* FrequencyBodyAccJerkStdDevY           
+* FrequencyBodyAccJerkStdDevZ        
+* FrequencyBodyAccJerkmeanFreqX       
+* FrequencyBodyAccJerkmeanFreqY       
+* FrequencyBodyAccJerkmeanFreqZ
+* FrequencyBodyGyroMeanX                
+* FrequencyBodyGyroMeanY                
+* FrequencyBodyGyroMeanZ               
+* FrequencyBodyGyroStdDevX              
+* FrequencyBodyGyroStdDevY              
+* FrequencyBodyGyroStdDevZ           
+* FrequencyBodyGyromeanFreqX          
+* FrequencyBodyGyromeanFreqY          
+* FrequencyBodyGyromeanFreqZ         
+* FrequencyBodyAccMagMean              
+* FrequencyBodyAccMagStdDev          
+* FrequencyBodyAccMagmeanFreq        
+* FrequencyBodyBodyAccJerkMagMean      
+* FrequencyBodyBodyAccJerkMagStdDev  
+* FrequencyBodyBodyAccJerkMagmeanFreq
+* FrequencyBodyBodyGyroMagMean         
+* FrequencyBodyBodyGyroMagStdDev       
+* FrequencyBodyBodyGyroMagmeanFreq    
+* FrequencyBodyBodyGyroJerkMagMean    
+* FrequencyBodyBodyGyroJerkMagStdDev 
+* FrequencyBodyBodyGyroJerkMagmeanFreq
+
