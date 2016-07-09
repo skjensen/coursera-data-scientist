@@ -1,13 +1,23 @@
 # CodeBook
 
-code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
+## Original dataset downloade from:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Dimentions of the tidy dataset 10299x81 
+## Transformations
+1. Training and Test data are loaded into 3 dataframes each: measurements, activity and subject
+2. Training and Test datasets are merged into 3 dataframes
+3. Only measurements on the mean and standard deviation are kept in the measurements dataframe
+4. The 3 dataframes are merged into a single large dataframe
+5. The final tidy dataset can be found in variable: df_complete
+6. A special independent dataset is created to contain the mean value of each measurement for all activities for all subjects. The dataset can be found in variable: df_mean 
 
-Variables:
+## Key variables:
+Activity and Subject are key variables identifying what activity the subject were duing for the measurement values in the remaining variables found in the dataset.
+* Activity
+* Subject
 
-* Activity                         
-* Subject                       
+## Measurements variables:
+All measurements are normalized to values between [-1,1]
 * TimeBodyAccMeanX                      
 * TimeBodyAccMeanY                      
 * TimeBodyAccMeanZ                   
