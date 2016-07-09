@@ -9,7 +9,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 3. Only measurements on the mean and standard deviation are kept in the measurements dataframe
 4. The 3 dataframes are merged into a single large dataframe
 5. The final tidy dataset can be found in variable: df_complete
-6. A special independent dataset is created to contain the mean value of each measurement for all activities for all subjects. The dataset can be found in variable: df_mean 
+6. A special independent dataset is created to contain the mean value of each measurement for all activities for all subjects. The dataset can be found in variable: df_mean and has been exported as tidy_means.txt
 
 ## Key variables:
 Activity and Subject are key variables identifying what activity the subject were duing for the measurement values in the remaining variables found in the dataset.
