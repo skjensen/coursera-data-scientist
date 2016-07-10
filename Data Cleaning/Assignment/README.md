@@ -1,5 +1,4 @@
-# Coursera: Getting and Cleaning Data 
-# Final Project
+# Final project - Coursera: Getting and Cleaning Data 
 
 ## Introduction
 The repository contains my solution for the final project for the Coursera course "Getting and Cleaning data"
